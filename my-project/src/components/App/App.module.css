@@ -1,0 +1,204 @@
+.container{
+    font-family: HK Grotesk;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+    color: #183B56;
+
+}
+
+.style{
+    font-family: HK Grotesk;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+    color: #183B56;
+
+}
+
+.tipography{
+    font-family: HK Grotesk;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+    color: #183B56;
+
+
+}
+
+.fashion{
+    font-family: HK Grotesk;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+    color: #183B56;
+
+}
+
+.cloud{
+    font-family: HK Grotesk;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+    color: #183B56;
+}
+
+.cat{
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: center;
+    color: #5A7184;
+
+}
+
+.Fashion{
+    font-family: HK Grotesk;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+    color: #183B56;
+}
+
+.line{
+    border: dashed;
+    color: #ECEEF2;
+}
+
+.Fashion1{
+    font-family: Open Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    color: #5A7184;
+
+
+}
+
+.categories{
+    font-family: HK Grotesk;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    color: #183B56;
+}
+
+.title{
+    font-family: HK Grotesk;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+    color: #183B56;
+
+}
+
+.subtitle{
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: center;
+    color: #5A7184;
+}
+
+.leptop{
+    width: 167px;
+    height: 118px;
+    top: 3033px;
+    left: 186px;
+    gap: 0px;
+    opacity: 0px;
+    background: #B3BAC5;
+}
+
+.layout{
+font-family: HK Grotesk;
+font-size: 20px;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0.20000000298023224px;
+text-align: left;
+width: 234px;
+height: 24px;
+top: 3035px;
+left: 396px;
+gap: 0px;
+opacity: 0px;
+}
+
+.promo{
+    font-family: HK Grotesk;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 52px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    background: #FFFFFF;
+
+}
+
+.give{
+    font-family: Open Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: left;
+
+}
+
+.wrapper{
+    width: 415px;
+    height: 56px;
+    top: 5017px;
+    left: 775px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    border-radius: 20px;
+    opacity: 0px;
+}
+
+.wrapper input{
+    background-color: #FFFFFF;
+    border: 2px solid white;
+    width: 415px;
+    height: 56px;
+    top: 5017px;
+    left: 775px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    border-radius: 20px;
+    opacity: 0px;
+    aspect-ratio: 1;
+
+}
+
+.button{
+    background: #00B8D9;
+    width: 126px;
+    height: 44px;
+    gap: 0px;
+    opacity: 0px;
+    border-radius: 20px;
+    
+
+    position: absolute;
+    right: 0;
+}
